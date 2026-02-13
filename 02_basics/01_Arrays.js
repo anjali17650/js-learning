@@ -7,7 +7,7 @@ console.log(arr1[4]);
 const arr2 = new Array(7,4,6,76,8);
 console.log(arr2[0]);
 
-Array methods
+//Array methods
 
 arr1.push(23);
 arr1.push(22);
@@ -24,7 +24,7 @@ console.log(arr1);
 console.log(newArray);
 console.log(typeof newArray);
 
-slice and splice
+//slice and splice
 
 console.log("A ", arr1);
 const myn1 = arr1.slice(1,3);
